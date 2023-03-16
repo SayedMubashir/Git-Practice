@@ -9,8 +9,11 @@ git init---> ini git repository in path
 git add --a --> at next stage from working stage
 git commit -m "" 
 
------sw------
-which works... both push and pull at the same time
-sw: "  "
+git checkout contact.html ---> reverse to all previous content in contact.html "by mistake"
+git checkout -f --> if mistakes occurs in all files, it give back all the previous files
+git log --> History details
+git -p -1 --> History details about one change
+git diff --> tell us about the diff or compare the working area with the staging area 
+
 
 

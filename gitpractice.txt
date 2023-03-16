@@ -1,0 +1,16 @@
+-----"cmd"----
+pwd
+clear
+git config --global user.name "Sayed Mubashir Hussain"
+git config --global user.email "mrsayedmubashir@gmail.com"
+git config --list
+git status
+git init---> ini git repository in path
+git add --a --> at next stage from working stage
+git commit -m "" 
+
+-----sw------
+which works... both push and pull at the same time
+sw: "  "
+
+
